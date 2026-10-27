@@ -84,11 +84,6 @@ CODE/
     ├── TSNE.py
     └── Datasets/
         ├── oxford4.mat
-        ├── ALOI_100.mat
-        ├── NUS.mat
-        ├── OutdoorScene.mat
-        ├── ALOI_10.mat
-        └── YoutubeFace_sel_fea.mat
 ```
 
 Only `oxford4.mat` is included in the supplied local project. Add the other datasets before selecting their IDs.
